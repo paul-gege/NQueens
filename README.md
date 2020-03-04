@@ -9,10 +9,4 @@ NQueens problem is a problem of placing N chess queens on an NxN chessboard so t
 ### Executing program
 Simply import the repository into a Java IDE, enter the number of queens (try numbers between 8-10) 
 
-## Authors
-
-Contributors names and contact info
-
-ex. Dominique Pizzie  
-ex. [@DomPizzie](https://twitter.com/dompizzie)
 
